@@ -41,7 +41,7 @@ Project involved analyzing the operations of Amor Woodfire Pizza, a franchise wi
 * Oregon and California had Hot Pepperoni Feast as most the sold pizza, Arizona and Idaho had Chicken Suya as the most sold pizza and BBQ Philly Steak as 2nd most sold pizza, and Nevada 
   had Pepperoni Feast as most sold pizza
 * Total sales accross all states were between 39k to 37k except Idaho which had 36k as total sales
-* All stores across states met target sales when sales where combined otherwise stores in all 5 states fell short to meet target sales
+* All stores across states almost met target sales when sales were combined otherwise stores in all 5 states fell short to meet target sales
 
 \
 ***Recomnendation***<br>
