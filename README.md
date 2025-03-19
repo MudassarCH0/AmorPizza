@@ -32,7 +32,7 @@ Project involved analyzing the operations of Amor Woodfire Pizza, a franchise wi
 
 \
 <br>
-![image](https://github.com/user-attachments/assets/57721298-3211-4693-9d45-aed8fb742df2)
+    ![image](https://github.com/user-attachments/assets/57721298-3211-4693-9d45-aed8fb742df2)
 <br>
 
 \
