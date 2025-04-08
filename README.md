@@ -51,4 +51,4 @@ Project involved analyzing the operations of Amor Woodfire Pizza, a franchise wi
 * CEO should introduce weekly sales to meet target sales or find better customer attraction methods<br><br> 
 
 > [!Note]
-> [Project Link](no link)
+> [Project Link](No link, because viewer must be provided a link per Microsoft)
